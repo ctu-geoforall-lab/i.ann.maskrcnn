@@ -28,6 +28,6 @@ The official documentation is on the
 
 ## Samples
 
-![Buildings detection](pictures/out_b_150.png)
+![Buildings detection](samples/out_b_150.png)
 
-![Pitches detection](pictures/out3.png)
+![Pitches detection](samples/out3.png)
