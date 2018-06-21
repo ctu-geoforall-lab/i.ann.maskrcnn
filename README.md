@@ -25,3 +25,9 @@ GRASS with command:
 
 The official documentation is on the
 [official web site](https://grass.osgeo.org/grass74/manuals/addons/i.ann.maskrcnn.html).
+
+## Samples
+
+![Buildings detection](pictures/out_b_150.png)
+
+![Pitches detection](pictures/out3.png)
