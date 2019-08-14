@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Motivace}{3}{0}{1}
+\beamer@sectionintoc {2}{Theoretical framework}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Convolutional neural networks}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Mask R-CNN}{16}{0}{2}
+\beamer@sectionintoc {3}{Implementation}{25}{0}{3}
+\beamer@subsectionintoc {3}{1}{Usage}{25}{0}{3}
+\beamer@subsectionintoc {3}{2}{i.ann.maskrcnn.train}{26}{0}{3}
+\beamer@subsectionintoc {3}{3}{i.ann.maskrcnn.detect}{31}{0}{3}
+\beamer@subsectionintoc {3}{4}{Results}{34}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{42}{0}{4}
+\beamer@sectionintoc {5}{Sources}{43}{0}{5}

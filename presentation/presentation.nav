@@ -1,0 +1,66 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Motivace}{3}{Motivace}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/6}{}{0}}
+\headcommand {\beamer@framepages {3}{6}}
+\headcommand {\slideentry {1}{0}{2}{7/9}{}{0}}
+\headcommand {\beamer@framepages {7}{9}}
+\headcommand {\slideentry {1}{0}{3}{10/12}{}{0}}
+\headcommand {\beamer@framepages {10}{12}}
+\headcommand {\beamer@sectionpages {3}{12}}
+\headcommand {\beamer@subsectionpages {3}{12}}
+\headcommand {\sectionentry {2}{Theoretical framework}{13}{Theoretical framework}{0}}
+\headcommand {\beamer@subsectionpages {13}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{13}{Convolutional neural networks}}
+\headcommand {\slideentry {2}{1}{1}{13/15}{Convolutional neural networks}{0}}
+\headcommand {\beamer@framepages {13}{15}}
+\headcommand {\beamer@subsectionpages {13}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{16}{Mask R-CNN}}
+\headcommand {\slideentry {2}{2}{1}{16/17}{Mask R-CNN}{0}}
+\headcommand {\beamer@framepages {16}{17}}
+\headcommand {\slideentry {2}{2}{2}{18/18}{Mask R-CNN}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {2}{2}{3}{19/21}{Mask R-CNN}{0}}
+\headcommand {\beamer@framepages {19}{21}}
+\headcommand {\slideentry {2}{2}{4}{22/24}{Mask R-CNN}{0}}
+\headcommand {\beamer@framepages {22}{24}}
+\headcommand {\beamer@sectionpages {13}{24}}
+\headcommand {\beamer@subsectionpages {16}{24}}
+\headcommand {\sectionentry {3}{Implementation}{25}{Implementation}{0}}
+\headcommand {\beamer@subsectionpages {25}{24}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{25}{Usage}}
+\headcommand {\slideentry {3}{1}{1}{25/25}{Usage}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@subsectionpages {25}{25}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{26}{i.ann.maskrcnn.train}}
+\headcommand {\slideentry {3}{2}{1}{26/30}{i.ann.maskrcnn.train}{0}}
+\headcommand {\beamer@framepages {26}{30}}
+\headcommand {\beamer@subsectionpages {26}{30}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{31}{i.ann.maskrcnn.detect}}
+\headcommand {\slideentry {3}{3}{1}{31/33}{i.ann.maskrcnn.detect}{0}}
+\headcommand {\beamer@framepages {31}{33}}
+\headcommand {\beamer@subsectionpages {31}{33}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{34}{Results}}
+\headcommand {\slideentry {3}{4}{1}{34/41}{Results}{0}}
+\headcommand {\beamer@framepages {34}{41}}
+\headcommand {\beamer@sectionpages {25}{41}}
+\headcommand {\beamer@subsectionpages {34}{41}}
+\headcommand {\sectionentry {4}{Conclusion}{42}{Conclusion}{0}}
+\headcommand {\slideentry {4}{0}{1}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@sectionpages {42}{42}}
+\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\sectionentry {5}{Sources}{43}{Sources}{0}}
+\headcommand {\slideentry {5}{0}{1}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {5}{0}{2}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@partpages {1}{44}}
+\headcommand {\beamer@subsectionpages {43}{44}}
+\headcommand {\beamer@sectionpages {43}{44}}
+\headcommand {\beamer@documentpages {44}}
+\headcommand {\gdef \inserttotalframenumber {17}}

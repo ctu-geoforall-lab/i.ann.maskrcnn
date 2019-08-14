@@ -1,0 +1,11 @@
+\BOOKMARK [2][]{Outline0.1}{Motivace}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Theoretical framework}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.13}{Convolutional neural networks}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.16}{Mask R-CNN}{Outline0.2}% 4
+\BOOKMARK [2][]{Outline0.3}{Implementation}{}% 5
+\BOOKMARK [3][]{Outline0.3.1.25}{Usage}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.2.26}{i.ann.maskrcnn.train}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.3.31}{i.ann.maskrcnn.detect}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.4.34}{Results}{Outline0.3}% 9
+\BOOKMARK [2][]{Outline0.4}{Conclusion}{}% 10
+\BOOKMARK [2][]{Outline0.5}{Sources}{}% 11
