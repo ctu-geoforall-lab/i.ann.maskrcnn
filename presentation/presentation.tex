@@ -98,6 +98,7 @@
 \usepackage{multimedia}
 \usepackage{tikz}
 \usepackage{fancyvrb}
+\usepackage{caption}
 
 
 %------------------------------------------------------------------
@@ -202,7 +203,7 @@ Why neural networks?
 	\includegraphics<1>[height=0.45\textheight]{pictures/nn1.png}
 	\includegraphics<2>[height=0.44\textheight]{pictures/nn2.png}
 	\includegraphics<3>[height=0.45\textheight]{pictures/nn3.jpg}
-	\caption{Source: [1]}
+	\caption*{Source: [1]}
 \end{figure}
 
 \end{frame}
@@ -246,7 +247,7 @@ Source: [1]}
 \begin{figure}[ht]
 	\includegraphics<1>[width=0.9\textwidth]{pictures/segmentations.png}
 	\includegraphics<2>[width=0.65\textwidth]{pictures/instance-segmentation.png}
-	\caption{Source: [2]}
+	\caption*{Source: [2]}
 \end{figure}
 
 \end{frame}
@@ -265,7 +266,7 @@ Two parts:
 
 \begin{figure}[ht]
 	\includegraphics[width=0.8\textwidth]{pictures/maskrcnn.png}
-	\caption{Source: [3]}
+	\caption*{Source: [3]}
 \end{figure}
 
 \end{frame}
@@ -286,7 +287,7 @@ Backbone architecture:
 	\includegraphics<1>[height=0.4\textheight]{pictures/bottleneck-block.jpg}
 	\includegraphics<2>[height=0.4\textheight]{pictures/fasterrcnn.png}
 	\includegraphics<3>[height=0.4\textheight]{pictures/fasterrcnn-anchors.png}
-	\caption{Source: [3]}
+	\caption*{Source: [3]}
 \end{figure}
 
 \end{frame}
@@ -307,7 +308,7 @@ Head architecture:
 \begin{figure}[ht]
 	\includegraphics<1-2>[height=0.3\textheight]{pictures/fastrcnn.png}
 	\includegraphics<3>[height=0.3\textheight]{pictures/maskrcnn-head.png}
-	\caption{Source: [4]}
+	\caption*{Source: [4]}
 \end{figure}
 
 \end{frame}
@@ -393,28 +394,28 @@ Workflow behind
 \begin{figure}[ht]
 	\only<1>{
 	\includegraphics[width=.9\textwidth]{pictures/out1.png}
-	\caption{loss function 0.96, 54000 training images}}
+	\caption*{Loss function 0.96, 54000 training images}}
 	\only<2>{
 	\includegraphics[width=.9\textwidth]{pictures/out2.png}
-	\caption{loss function 0.96, 54000 training images}}
+	\caption*{Loss function 0.96, 54000 training images}}
 	\only<3>{
 	\includegraphics[width=.9\textwidth]{pictures/out3.png}
-	\caption{loss function 0.96, 54000 training images}}
+	\caption*{Loss function 0.96, 54000 training images}}
 	\only<4>{
 	\includegraphics[width=.9\textwidth]{pictures/out_b_1.png}
-	\caption{epoch 1, loss function 35.01, 2400 training images}}
+	\caption*{Epoch 1, loss function 35.01, 2400 training images}}
 	\only<5>{
 	\includegraphics[width=.9\textwidth]{pictures/out_b_10.png}
-	\caption{epoch 10, loss function 5.87, 2400 training images}}
+	\caption*{Epoch 10, loss function 5.87, 2400 training images}}
 	\only<6>{
 	\includegraphics[width=.9\textwidth]{pictures/out_b_50.png}
-	\caption{epoch 50, loss function 1.36, 2400 training images}}
+	\caption*{Epoch 50, loss function 1.36, 2400 training images}}
 	\only<7>{
 	\includegraphics[width=.9\textwidth]{pictures/out_b_150.png}
-	\caption{epoch 150, loss function 0.63, 2400 training images}}
+	\caption*{Epoch 150, loss function 0.63, 2400 training images}}
 	\only<8>{
 	\includegraphics[width=.9\textwidth]{pictures/out_b_180.png}
-	\caption{epoch 180, loss function 0.50, 2400 training images}}
+	\caption*{Epoch 180, loss function 0.50, 2400 training images}}
 \end{figure}
 
 \end{frame}
