@@ -14,11 +14,11 @@ R-CNN by Waleed Abdulla, Matterport, Inc. (see
 ## Instalation
 
 In GRASS GIS, the stable version of i.ann.maskrcnn.* modules can be installed
-from the official AddOns repository by command:  
+from the official AddOns repository by command:
 `g.extension extension=i.ann.maskrcnn`
 
 To install the working version from this repository, clone it and install into
-GRASS with command:  
+GRASS with command:
 `g.extension extension=i.ann.maskrcnn url=path/to/the/i.ann.maskrcnn/folder`
 
 ## Documentation
